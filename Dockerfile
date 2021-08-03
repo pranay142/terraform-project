@@ -1,3 +1,3 @@
 From alpine
 
-CMD ["sleep", "100000"]
+CMD ["sleep", "10"]
